@@ -20,4 +20,7 @@ This project is a Sales Dashboard built using Power BI to analyze business perfo
 - DAX
 
 ## 📷 Dashboard Preview
-(Add your screenshot here)
+<img width="1330" height="770" alt="image" src="https://github.com/user-attachments/assets/cb9251d0-178e-46fc-917d-53c4fd827157" />
+<img width="316" height="564" alt="image" src="https://github.com/user-attachments/assets/e391aa51-a3fe-4d86-a945-7513f840e9c2" />
+
+
