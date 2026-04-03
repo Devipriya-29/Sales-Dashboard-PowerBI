@@ -22,6 +22,9 @@ This project is a Sales Dashboard built using Power BI to analyze business perfo
 ## 📷 Dashboard Preview
 <img width="1330" height="770" alt="image" src="https://github.com/user-attachments/assets/cb9251d0-178e-46fc-917d-53c4fd827157" />
 <img width="316" height="564" alt="image" src="https://github.com/user-attachments/assets/e391aa51-a3fe-4d86-a945-7513f840e9c2" />
+<img width="615" height="378" alt="Screenshot 2026-04-03 135840" src="https://github.com/user-attachments/assets/1af17ebe-fcd9-45e3-b02a-000a80e8e5d8" />
+![Uploading Screenshot 2026-04-03 135855.png…]()
+
 
 
 # 📊 HR Analytics Dashboard (Power BI)
